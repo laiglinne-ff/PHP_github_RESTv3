@@ -7,7 +7,7 @@ function GithubConnect($url, $oauthKey)
 	curl_setopt($c, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
 	curl_setopt($c, CURLOPT_USERPWD, $oauthKey.":x-oauth-basic");
 	curl_setopt($c, CURLOPT_RETURNTRANSFER, true);
-	curl_setopt($c, CURLOPT_USERAGENT, "49dbe5d6f4fda95e526a");
+	curl_setopt($c, CURLOPT_USERAGENT, "YOUR_TEXT");
 	curl_setopt($c, CURLOPT_TIMEOUT, 240);
 	curl_setopt($c, CURLOPT_FOLLOWLOCATION, true);
 	curl_setopt($c, CURLOPT_HTTPGET, true);
