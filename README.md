@@ -6,7 +6,7 @@ Github RESTv3 API Helper
 https://ffxiv.io/github/r/laiglinne-ff/PHP_github_RESTv3
 
 ## Example:
-```
+```PHP
 require("func.php");
 
 $user = "laiglinne-ff";
