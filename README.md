@@ -53,4 +53,5 @@ function ReleasesParse($user, $repo)
 		$mdata[] = $rdata;
 	}
 	return $mdata;
+}
 ```
