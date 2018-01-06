@@ -6,7 +6,7 @@ Github RESTv3 API Helper
 https://ffxiv.io/github/r/laiglinne-ff/PHP_github_RESTv3
 
 ## Example:
-`
+```
 require("func.php");
 
 $user = "laiglinne-ff";
@@ -53,4 +53,4 @@ function ReleasesParse($user, $repo)
 		$mdata[] = $rdata;
 	}
 	return $mdata;
-`
+```
