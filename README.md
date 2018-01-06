@@ -3,7 +3,7 @@ Github RESTv3 API Helper
 
 ## Preview:
 
-https://ffxiv.io/github/r/laiglinne-ff/PHP_github_RESTv3
+https://ffxiv.io/act/OverlayPlugin
 
 ## Example:
 ```PHP
